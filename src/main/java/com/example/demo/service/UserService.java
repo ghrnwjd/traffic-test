@@ -15,8 +15,12 @@ public class UserService {
     }
 
     public void addUser(String username, String password) {
+        long startTime = System.nanoTime();  // 요청 시작 시간
+
         User user = User.builder().username(username)
                 .password(password).build();
+
+
 
         userRepository.save(user);
     }

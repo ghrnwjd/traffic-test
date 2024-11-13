@@ -25,8 +25,7 @@ public class User {
 
     @Builder
     public User(String username, String password) {
-        User user = new User();
-        user.username = username;
-        user.password = password;
+        this.username = username;
+        this.password = password;
     }
 }
