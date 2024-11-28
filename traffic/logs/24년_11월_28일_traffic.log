@@ -1,0 +1,70 @@
+[24-11-28 21:20:26] Request Http Method: 200 OK, user ip: 127.0.0.1, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 9 latency : 0ms
+[24-11-28 21:20:26] Request Http Method: 200 OK, user ip: 127.0.0.1, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 8 latency : 0ms
+[24-11-28 21:20:26] Request Http Method: 200 OK, user ip: 127.0.0.1, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 7 latency : 0ms
+[24-11-28 21:20:26] Request Http Method: 200 OK, user ip: 127.0.0.1, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 6 latency : 0ms
+[24-11-28 21:20:26] Request Http Method: 200 OK, user ip: 127.0.0.1, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 5 latency : 0ms
+[24-11-28 21:20:26] Request Http Method: 200 OK, user ip: 127.0.0.1, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 4 latency : 0ms
+[24-11-28 21:20:26] Request Http Method: 200 OK, user ip: 127.0.0.1, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 3 latency : 0ms
+[24-11-28 21:20:26] Request Http Method: 200 OK, user ip: 127.0.0.1, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 2 latency : 0ms
+[24-11-28 21:20:26] Request Http Method: 200 OK, user ip: 127.0.0.1, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 1 latency : 0ms
+[24-11-28 21:20:26] Request Http Method: 200 OK, user ip: 127.0.0.1, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 0 latency : 0ms
+[24-11-28 21:20:26] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:26] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 1ms
+[24-11-28 21:20:26] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:26] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:26] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 1ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 1ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 1ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:20:27] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 127.0.0.1, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:25:18] Request Http Method: 200 OK, user ip: 192.168.219.159, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 7 latency : 1ms
+[24-11-28 21:25:18] Request Http Method: 200 OK, user ip: 192.168.219.159, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 7 latency : 1ms
+[24-11-28 21:25:18] Request Http Method: 200 OK, user ip: 192.168.219.159, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 7 latency : 1ms
+[24-11-28 21:25:18] Request Http Method: 200 OK, user ip: 192.168.219.159, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 6 latency : 0ms
+[24-11-28 21:25:18] Request Http Method: 200 OK, user ip: 192.168.219.159, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 3 latency : 0ms
+[24-11-28 21:25:18] Request Http Method: 200 OK, user ip: 192.168.219.159, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 4 latency : 0ms
+[24-11-28 21:25:18] Request Http Method: 200 OK, user ip: 192.168.219.159, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 2 latency : 0ms
+[24-11-28 21:25:18] Request Http Method: 200 OK, user ip: 192.168.219.159, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 4 latency : 0ms
+[24-11-28 21:25:18] Request Http Method: 200 OK, user ip: 192.168.219.159, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 1 latency : 0ms
+[24-11-28 21:25:18] Request Http Method: 200 OK, user ip: 192.168.219.159, statusCode: GET, Server Response: [정상응답] 잔여토큰 : 0 latency : 0ms
+[24-11-28 21:25:18] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 192.168.219.159, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:25:18] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 192.168.219.159, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:25:18] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 192.168.219.159, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:25:18] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 192.168.219.159, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 1ms
+[24-11-28 21:25:18] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 192.168.219.159, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:25:18] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 192.168.219.159, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:25:19] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 192.168.219.159, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:25:19] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 192.168.219.159, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 0ms
+[24-11-28 21:25:19] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 192.168.219.159, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 1ms
+[24-11-28 21:25:19] Request Http Method: 429 TOO_MANY_REQUESTS, user ip: 192.168.219.159, statusCode: GET, Server Response: [비정상응답] 트래픽 초과 latency : 1ms

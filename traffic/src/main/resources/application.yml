@@ -1,0 +1,34 @@
+spring:
+  application:
+    name: traffic
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/traffic_test?serverTimezone=Asia/Seoul
+    username: hoyoung
+    password: 1234
+
+  jpa:
+    open-in-view: true
+    hibernate:
+      ddl-auto: update
+      # none, create = ???? ???? ??????, update = ?? ???? ??
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+        #PhysicalNamingStrategyStandardImpl = Entity ? ?? ? ??? ??? ???? ????.
+
+      use-new-id-generator-mappings: false # jpa ? ????? ???? ???.
+    show-sql: false # sql?? ???? ????.
+    properties:
+      hibernate.format_sql: true # ???? ???? ?????.
+
+#  kafka:
+#    producer:
+#      bootstrap-servers: localhost:10000,localhost:10001,localhost:10002 # 카프카 서버 주소
+#      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+#      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+#    consumer:
+#      group-id: error-handler-group
+#      auto-offset-reset: earliest
+#    template:
+#      default-topic: error-messages
